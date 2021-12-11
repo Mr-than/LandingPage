@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="back">#000000</color>
+    <color name="text1">#FFFFFF</color>
+    <color name="hello_w">#ADADAE</color>
+    <color name="hint">#FFFFFF</color>
+    <color name="b">#909091</color>
+</resources>
